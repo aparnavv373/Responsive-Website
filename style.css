@@ -1,4 +1,4 @@
-/* Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ body {
     line-height: 1.6;
 }
 
-/* Header */
+
 header {
     background: #ff4d6d;
     color: white;
@@ -18,7 +18,7 @@ header {
     padding: 15px;
 }
 
-/* Navigation */
+
 nav {
     background: #333;
     display: flex;
@@ -36,7 +36,7 @@ nav a:hover {
     background: #555;
 }
 
-/* Hero */
+
 .hero {
     text-align: center;
     padding: 40px 20px;
